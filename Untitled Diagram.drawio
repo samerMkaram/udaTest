@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-07T10:03:55.909Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GdIILF882kTGzzhRcAoQ" version="18.0.1" type="github">
+<mxfile modified="2022-05-07T10:07:17.715Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="vOK54YHNuGD15RksyWvg" version="18.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="868" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vi9YwsHRrS1_3fqv44Dd-22" value="Request data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" edge="1" parent="vi9YwsHRrS1_3fqv44Dd-13" source="vi9YwsHRrS1_3fqv44Dd-23" target="vi9YwsHRrS1_3fqv44Dd-24">
+        <mxCell id="vi9YwsHRrS1_3fqv44Dd-22" value="Request SQL&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" edge="1" parent="vi9YwsHRrS1_3fqv44Dd-13" source="vi9YwsHRrS1_3fqv44Dd-23" target="vi9YwsHRrS1_3fqv44Dd-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vi9YwsHRrS1_3fqv44Dd-23" value="AWS Elastic Beanstalk hosts API" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_beanstalk;" vertex="1" parent="vi9YwsHRrS1_3fqv44Dd-13">
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vi9YwsHRrS1_3fqv44Dd-28" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vi9YwsHRrS1_3fqv44Dd-27">
+        <mxCell id="vi9YwsHRrS1_3fqv44Dd-28" value="Database Response with data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vi9YwsHRrS1_3fqv44Dd-27">
           <mxGeometry x="0.0247" y="1" relative="1" as="geometry">
             <mxPoint x="29" y="-10" as="offset" />
           </mxGeometry>
